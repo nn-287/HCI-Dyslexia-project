@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\bin\Debug\Eng.bassem_project.exe.config
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\bin\Debug\Eng.bassem_project.exe
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\bin\Debug\Eng.bassem_project.pdb
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng. bassem project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng.bassem_project.Form1.resources
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng.bassem_project.Properties.Resources.resources
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng. bassem project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng. bassem project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng.bassem_project.exe
+C:\Users\User\source\repos\Eng. bassem project\Eng. bassem project\obj\Debug\Eng.bassem_project.pdb
